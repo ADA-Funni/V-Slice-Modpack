@@ -4,9 +4,6 @@ function postCreate() {
 	comboGroup.setPosition(560, 290);
 	healthBar.numDivisions = 1000;
 	comboGroup.cameras = [camHUD];
-
-	for (spr in strumLines.members)
-		spr.x -= 130;
 }
 
 function onCountdown(e) if (e.scale == 0.6) e.scale = 1;
