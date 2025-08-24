@@ -3,7 +3,7 @@ import funkin.backend.MusicBeatTransition;
 import haxe.io.Path;
 import StickerPack;
 
-public static var defaultStickerPackID:String = "default";
+public static var defaultStickerPackID:String = "standard-bf";
 
 static var lastStickers:Array<{
 	var stickerPath:String;

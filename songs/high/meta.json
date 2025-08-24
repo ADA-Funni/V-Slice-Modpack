@@ -4,11 +4,17 @@
 	"difficulties": [
 		"easy",
 		"normal",
-		"hard",
-		"erect",
-		"nightmare"
+		"hard"
 	],
-	"customValues": {},
+	"variants": ["erect"],
+	"customValues": {
+		"artist": "Kawai Sprite",
+		"charter": "ninjamuffin99 + MtH",
+		"album": "volume1",
+		"ratings": { "easy": 1, "normal": 2, "hard": 3 },
+		"previewStart": 0,
+		"previewEnd": 15000
+	},
 	"color": -223530,
 	"name": "high",
 	"coopAllowed": true,

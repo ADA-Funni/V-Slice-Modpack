@@ -4,11 +4,17 @@
 	"difficulties": [
 		"easy",
 		"normal",
-		"hard",
-		"erect",
-		"nightmare"
+		"hard"
 	],
-	"customValues": {},
+	"variants": ["erect"],
+	"customValues": {
+		"ratings": { "easy": 1, "normal": 2, "hard": 2 },
+    	"album": "volume1",
+    	"previewStart": 0,
+    	"previewEnd": 15000,
+		"artist": "Kawai Sprite",
+  		"charter": "ninjamuffin99 + MtH + Spazkid"
+	},
 	"color": -223530,
 	"name": "satin panties",
 	"coopAllowed": true,

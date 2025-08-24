@@ -1,12 +1,23 @@
 {
 	"opponentModeAllowed": true,
 	"icon": "mom",
-	"customValues": {},
+	"difficulties": [
+		"erect",
+		"nightmare"
+	],
+	"customValues": {
+		"artist": "Kohta Takahashi (feat. Kawai Sprite)",
+  		"charter": "PhantomArcade + fabs + Spazkid",
+		"ratings": { "erect": 8, "nightmare": 9 },
+    	"album": "volume3",
+    	"previewStart": 0,
+    	"previewEnd": 15000
+	},
 	"color": -223530,
 	"name": "high",
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"displayName": "High (Erect)",
+	"displayName": "High Erect",
 	"beatsPerMeasure": 4,
 	"needsVoices": false,
 	"bpm": 125,

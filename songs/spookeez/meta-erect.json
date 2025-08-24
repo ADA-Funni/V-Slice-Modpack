@@ -1,12 +1,23 @@
 {
 	"opponentModeAllowed": true,
 	"icon": "spooky",
-	"customValues": {},
+	"customValues": {
+		"artist": "Kawai Sprite (feat. Saruky)",
+		"charter": "Spazkid + fabs",
+		"ratings": { "erect": 11, "nightmare": 12 },
+		"album": "volume3",
+		"previewStart": 0,
+		"previewEnd": 15000
+	},
+	"difficulties": [
+		"erect",
+		"nightmare"
+	],
 	"color": -14535868,
 	"name": "spookeez",
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"displayName": "Spookeez (Erect)",
+	"displayName": "Spookeez Erect",
 	"beatsPerMeasure": 4,
 	"needsVoices": false,
 	"bpm": 166,

@@ -4,11 +4,17 @@
 	"difficulties": [
 		"easy",
 		"normal",
-		"hard",
-		"erect",
-		"nightmare"
+		"hard"
 	],
-	"customValues": {},
+	"customValues": {
+		"artist": "Kawai Sprite",
+		"charter": "ninjamuffin99 + MtH + Spazkid",
+		"ratings": { "easy": 1, "normal": 1, "hard": 2 },
+		"album": "volume1",
+		"previewStart": 0,
+		"previewEnd": 15000
+	},
+	"variants": ["erect"],
 	"color": -14535868,
 	"name": "spookeez",
 	"coopAllowed": true,

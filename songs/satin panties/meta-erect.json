@@ -1,12 +1,19 @@
 {
 	"opponentModeAllowed": true,
 	"icon": "mom",
-	"customValues": {},
+	"customValues": {
+		"artist": "Kawai Sprite",
+  		"charter": "fabs + Spazkid",
+		"ratings": { "erect": 11, "nightmare": 12 },
+		"album": "expansion1",
+		"previewStart": 0,
+		"previewEnd": 15000
+	},
 	"color": -223530,
 	"name": "satin panties",
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"displayName": "Satin Panties (Erect)",
+	"displayName": "Satin Panties Erect",
 	"beatsPerMeasure": 4,
 	"needsVoices": false,
 	"bpm": 135,
